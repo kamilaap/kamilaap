@@ -26,7 +26,7 @@
 
 ### 🧩 Tools I Use Daily
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,chrome,git,github,notion,discord" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,notion,discord" />
 </p>
 
 ---
