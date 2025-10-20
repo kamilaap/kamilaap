@@ -48,21 +48,6 @@
 
 ---
 
-### 🎧 Currently Vibing To  
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=novatorem&bar_color=9b84f0&bar_color_cover=true" width="380"/>
-</p>
-
-<!-- ✨ Spotify Embed -->
-### 🎧 Currently Vibing To  
-
-[![Spotify](https://novatorem-kamilaap.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyusername)
-
-💜 *Click play and code to your favorite vibe 🎧*
-
-
----
-
 <p align="center">
   🩵 Frontend Dev ✨ | 🎨 UI Enthusiast | ☕ Coffee over everything | 🌌 Night coder vibes
 </p>
