@@ -1,7 +1,6 @@
 <!-- 🌙 FRONTEND AESTHETIC DARK MODE README - BY KAMILA PUTRI HERLAMBANG 🌙 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4a00e0,100:8e2de2&height=100&text=Design%20%26%20Code%20with%20Passion%20💜&fontColor=ffffff&fontAlignY=55&fontSize=22&animation=fadeIn" />
 </p>
 
 <h2 align="center">Hey, I'm <b>Kamila Putri Herlambang</b> 👋</h2>
@@ -55,21 +54,12 @@
 </p>
 
 <!-- ✨ Spotify Embed -->
-<p align="center">
-  <iframe style="border-radius:12px" 
-          src="https://open.spotify.com/embed/track/1s6ux0lNiTziSrd7iua3Yq?utm_source=generator" 
-          width="80%" 
-          height="152" 
-          frameBorder="0" 
-          allowfullscreen="" 
-          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-          loading="lazy">
-  </iframe>
-</p>
+### 🎧 Currently Vibing To  
 
-<p align="center">
-  <i>💜 Click play and code to your favorite vibe 💻🎶</i>
-</p>
+[![Spotify](https://novatorem-kamilaap.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyusername)
+
+💜 *Click play and code to your favorite vibe 🎧*
+
 
 ---
 
