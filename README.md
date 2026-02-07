@@ -41,13 +41,6 @@
 
 ---
 
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamilaap&theme=tokyonight&hide_border=false" />
-</p>
-
----
-
 <p align="center">
   🩵 Frontend Dev ✨ | 🎨 UI Enthusiast | ☕ Coffee over everything | 🌌 Night coder vibes
 </p>
